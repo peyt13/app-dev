@@ -1,23 +1,23 @@
 # app-dev
 My first repository
-# My First Experience in GitHub
+# My Favorite Movie
 
-## Learning GitHub for the First Time
+## The Notebook
 
-My first experience using GitHub was a little confusing at first because I was not familiar with how it works. I learned how to create a repository, edit a README file, make changes, and create a pull request. 
+My favorite movie is **The Notebook**. It is a romantic movie about Noah and Allie, two people who fall in love but face many challenges in their relationship. Their love story shows that true love can last even through difficult times.
 
-### My Experience
+### Why I Like It
 
-- I learned something new about coding.
-- I experienced creating my own repository.
-- I learned how to edit and save changes.
-- I had some difficulties following the steps, but I slowly understood them.
+- It has a beautiful love story.
+- The story is emotional and touching.
+- The characters have great chemistry.
+- It shows the importance of love, patience, and commitment.
 
-### My Favorite Part
+### My Favorite Character
 
-**Creating My First Repository** – I liked creating my own repository because it made me feel like I was starting to learn how developers save and manage their projects.
+**Noah Calhoun** – I like Noah because he is sweet, caring, and willing to do anything for the person he loves. He shows that real love is not just about words but also about actions.
 
 ### Rating
 5/5
 
-My first experience with GitHub was challenging but fun. Even though I got confused with some steps, I learned a lot. It made me more interested in learning about programming and using GitHub for future projects.
+*I love this movie because it makes me feel different emotions. It reminds me that true love is about staying, caring, and choosing someone even when life gets difficult. It is definitely a movie worth watching.*
