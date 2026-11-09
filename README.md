@@ -18,7 +18,6 @@ My favorite movie is **The Notebook**. It is a romantic movie about Noah and All
 **Noah Calhoun** – I like Noah because he is sweet, caring, and willing to do anything for the person he loves. He shows that real love is not just about words but also about actions.
 
 ### Rating
-
 5/5
 
 *I love this movie because it makes me feel different emotions. It reminds me that true love is about staying, caring, and choosing someone even when life gets difficult. It is definitely a movie worth watching.*
